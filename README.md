@@ -33,3 +33,9 @@
 - ModelSerializer
 - 动态设置Serializer
 
+**支付、登录和注册**
+- json web token实现登录
+- 手机注册
+- 支付宝支付
+- 第三方登录
+
