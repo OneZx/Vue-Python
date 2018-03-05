@@ -17,6 +17,7 @@
 - django Rest Framework的开发
 
 **通用View实现rest api接口**
+
 1. ApiView方式实现api
 - GenericView方式实现api接口
 - Viewset和router方式实现api接口和url配置
@@ -24,22 +25,26 @@
 - 通用mixins
 
 **权限和认证**
-- Authentication用户认证设置
+
+1. Authentication用户认证设置
 - 动态设置permission、Authentication
 - Validators实现字段验证
 
 **序列化和表单验证**
+
 1. Serializer
 - ModelSerializer
 - 动态设置Serializer
 
 **支付、登录和注册**
+
 1. json web token实现登录
 - 手机注册
 - 支付宝支付
 - 第三方登录
 
 **进阶开发**
+
 1. django rest framework部分核心源码解读
 - 文档自动化管理
 - django rest framework的缓存
