@@ -28,3 +28,8 @@
 - 动态设置permission、Authentication
 - Validators实现字段验证
 
+**序列化和表单验证**
+- Serializer
+- ModelSerializer
+- 动态设置Serializer
+
