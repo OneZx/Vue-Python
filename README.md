@@ -72,3 +72,8 @@
 - django信号量
 - django 从请求到响应的完整过程
 - 独立使用django的model
+
+#### Vue知识点
+1. Vue技术选型分析
+- api后端数据填充到Vue组件模板
+- Vue代码结构分析
