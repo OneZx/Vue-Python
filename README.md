@@ -4,9 +4,11 @@
 
 > 技术栈
 
-- Vue-Django REST Framework
+- Vue 2.0
+- Django REST Framework
 - restful api
 - sentry 错误日志监控
+- 第三方登录和支付宝支付的集成
 
 
 
