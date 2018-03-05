@@ -26,4 +26,5 @@
 **权限和认证**
 - Authentication用户认证设置
 - 动态设置permission、Authentication
+- Validators实现字段验证
 
