@@ -16,3 +16,8 @@
 
 - django Rest Framework的开发
 
+**通用View实现rest api接口**
+- ApiView方式实现api
+- GenericView方式实现api接口
+- Viewset和router方式实现api接口和url配置
+
