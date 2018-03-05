@@ -63,4 +63,6 @@
 
 1. pycharm的远程服务器调试可以调试支付,第三方登录,远程服务器代码(重现服务器上的bug)
 - 通过docker搭建sentry体验错误日志监控系统,可以得到线上错误栈并在系统错误时收到邮件通知
-- django rest framework的文档自动化管理以及url的注册管理功能让我们省去写文档的时间
+- django rest framework的文档自动化管理以及url的注册管理功能让我们省去写文档的时间,能直接在文档里测试接口,自动生成js接口代码,shell测试代码和python测试代码
+- django rest framework提供throttle对api进行访问限制
+- 引入第三方框架来设置某些api的缓存
