@@ -21,4 +21,9 @@
 - GenericView方式实现api接口
 - Viewset和router方式实现api接口和url配置
 - django_filter、 SearchFilter、 OrderFilter、 分页
+- 通用mixins
+
+**权限和认证**
+- Authentication用户认证设置
+- 动态设置permission、Authentication
 
