@@ -44,3 +44,8 @@
 - 文档自动化管理
 - django rest framework的缓存
 - Throttling对用户和ip进行限速
+
+#### 开发中常见的问题
+- 本地系统不能重现bug
+- api接口出错不能及时发现找到错误
+- api文档管理问题
