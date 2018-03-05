@@ -66,3 +66,9 @@
 - django rest framework的文档自动化管理以及url的注册管理功能让我们省去写文档的时间,能直接在文档里测试接口,自动生成js接口代码,shell测试代码和python测试代码
 - django rest framework提供throttle对api进行访问限制
 - 引入第三方框架来设置某些api的缓存
+
+#### django 进阶知识点
+1. django migrations原理
+- django信号量
+- django 从请求到响应的完整过程
+- 独立使用django的model
