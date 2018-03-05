@@ -39,3 +39,8 @@
 - 支付宝支付
 - 第三方登录
 
+**进阶开发**
+- django rest framework部分核心源码解读
+- 文档自动化管理
+- django rest framework的缓存
+- Throttling对用户和ip进行限速
