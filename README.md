@@ -20,4 +20,5 @@
 - ApiView方式实现api
 - GenericView方式实现api接口
 - Viewset和router方式实现api接口和url配置
+- django_filter SearchFilter  OrderFilter 分页
 
