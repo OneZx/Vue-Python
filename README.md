@@ -1,3 +1,5 @@
-# My Awesome Book
+#### 简介
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本文档是Vue-python前后端分离项目的学习记录, 方便自己以后查阅梳理知识. 同时也分享出来供大家一起讨论学习~
+
+
