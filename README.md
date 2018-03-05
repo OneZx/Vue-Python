@@ -7,6 +7,7 @@
 - Vue 2.0
 - Django REST Framework
 - restful api
+- xadmin 后台管理系统
 - sentry 错误日志监控
 - 第三方登录和支付宝支付的集成
 - 本地远程调试
