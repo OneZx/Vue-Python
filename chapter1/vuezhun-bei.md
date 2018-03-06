@@ -14,4 +14,5 @@ cnpm sync connect
 > online-store
 
 - 在online-store文件夹中 `shift+鼠标右键` 在此打开命令窗口
-- cnpm install
+- `npm install` 安装node_modules
+-  `npm run dev` 运行项目
