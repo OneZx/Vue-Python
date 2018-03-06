@@ -37,4 +37,5 @@ cnpm sync connect
 **restful Api**
 
 - restful api(标准, 规范)目前是前后端分离最佳实践
-- 
+- 轻量,直接通过http(https),不需要额外协议 post/get/put/delete等操作
+- 面向资源, 一目了然, 具有自解释性
