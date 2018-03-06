@@ -1,0 +1,2 @@
+- pip install virtualenvwrapper 安装virtualenvwrapper
+- workon 列出所有虚拟环境
