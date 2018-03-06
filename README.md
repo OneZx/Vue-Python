@@ -4,7 +4,7 @@
 
 > 技术栈
 
-1. Vue 2.0
+- Vue 2.0
 - Django REST Framework
 - restful api
 - xadmin 后台管理系统
@@ -18,7 +18,7 @@
 
 **通用View实现rest api接口**
 
-1. ApiView方式实现api
+- ApiView方式实现api
 - GenericView方式实现api接口
 - Viewset和router方式实现api接口和url配置
 - django_filter、 SearchFilter、 OrderFilter、 分页
@@ -26,32 +26,32 @@
 
 **权限和认证**
 
-1. Authentication用户认证设置
+- Authentication用户认证设置
 - 动态设置permission、Authentication
 - Validators实现字段验证
 
 **序列化和表单验证**
 
-1. Serializer
+- Serializer
 - ModelSerializer
 - 动态设置Serializer
 
 **支付、登录和注册**
 
-1. json web token实现登录
+- json web token实现登录
 - 手机注册
 - 支付宝支付
 - 第三方登录
 
 **进阶开发**
 
-1. django rest framework部分核心源码解读
+- django rest framework部分核心源码解读
 - 文档自动化管理
 - django rest framework的缓存
 - Throttling对用户和ip进行限速
 
 #### 开发中常见的问题
-1. 本地系统不能重现bug
+- 本地系统不能重现bug
 - api接口出错不能及时发现找到错误
 - api文档管理问题
 - 大量的url配置造成url配置越来越多难以维护
@@ -68,13 +68,13 @@
 - 引入第三方框架来设置某些api的缓存
 
 #### django 进阶知识点
-1. django migrations原理
+- django migrations原理
 - django信号量
 - django 从请求到响应的完整过程
 - 独立使用django的model
 
 #### Vue知识点
-1. Vue技术选型分析
+- Vue技术选型分析
 - api后端数据填充到Vue组件模板
 - Vue代码结构分析
 
