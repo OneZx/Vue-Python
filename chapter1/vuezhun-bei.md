@@ -16,3 +16,5 @@ cnpm sync connect
 - 在online-store文件夹中 `shift+鼠标右键` 在此打开命令窗口
 - `npm install` 安装node_modules
 - `npm run dev` 运行项目
+
+**restful Api**
