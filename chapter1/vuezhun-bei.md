@@ -24,3 +24,4 @@ cnpm sync connect
 - pc, app, pad多端适应
 - SPA开发模式开始流行
 - 前后端开发职责不清
+- 开发效率问题, 前后端互相等待
