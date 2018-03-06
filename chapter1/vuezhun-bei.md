@@ -17,8 +17,6 @@ cnpm sync connect
 - `npm install` 安装node_modules
 - `npm run dev` 运行项目
 
-**restful Api**
-
 > 前后端分离优缺点
 
 - pc, app, pad多端适应
@@ -35,3 +33,7 @@ cnpm sync connect
 - 前端工作量加大
 - SEO的难度加大(单独做ssr)
 - 后端开发模式迁移增加成本
+
+**restful Api**
+
+- restful api目前是前后端分离最佳实践
