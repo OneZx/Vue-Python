@@ -11,3 +11,7 @@ npm install -g cnpm --registry=https://registry.npm.taobao.org
 cnpm sync connect
 ```
 
+> online-store
+
+- 在online-store文件夹中 `shift+鼠标右键` 在此打开命令窗口
+- cnpm install
