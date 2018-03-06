@@ -36,4 +36,5 @@ cnpm sync connect
 
 **restful Api**
 
-- restful api目前是前后端分离最佳实践
+- restful api(标准, 规范)目前是前后端分离最佳实践
+- 
