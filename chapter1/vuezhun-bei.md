@@ -37,5 +37,11 @@ cnpm sync connect
 **restful Api**
 
 - restful api(标准, 规范)目前是前后端分离最佳实践
-- 轻量,直接通过http(https),不需要额外协议 post/get/put/delete等操作
+- 轻量,直接通过http(https),不需要额外协议 get/post/put/patch/delete等操作
 - 面向资源, 一目了然, 具有自解释性
+- 数据描述简单, 一般通过json或者xml做数据通信
+
+> 重要概念
+
+- 阮一峰 理解restful架构
+- 阮一峰 restful api设计指南
