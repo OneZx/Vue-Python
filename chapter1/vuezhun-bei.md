@@ -18,3 +18,9 @@ cnpm sync connect
 - `npm run dev` 运行项目
 
 **restful Api**
+
+> 前后端分离优缺点
+
+- pc, app, pad多端适应
+- SPA开发模式开始流行
+- 前后端开发职责不清
