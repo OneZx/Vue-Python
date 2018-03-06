@@ -5,4 +5,9 @@
 npm install -g cnpm --registry=https://registry.npm.taobao.org
 ```
 - 以后npm换成cnpm
+- 同步模块,通过sync命令马上同步一个模块,只有`cnpm`命令行才有这个功能
+
+```
+cnpm sync connect
+```
 
