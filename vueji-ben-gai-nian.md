@@ -9,3 +9,4 @@
 - es6, babel
 
 - vuex 组件间的通信
+- vue-router 单页面跳转(没有向后台发起请求)
