@@ -13,5 +13,5 @@ DATABASES = {
     }
 }
 ```
-mysql数据库默认InnoDB引擎,还有种是MyISAM
+- mysql数据库默认InnoDB引擎,还有种是MyISAM
 <http://blog.csdn.net/u013986386/article/details/52869648>
