@@ -24,4 +24,5 @@ trusted-host = mirrors.aliyun.com
 
 > 安装的时候
 
-- pip install
+- `pip install xxx -i http://mirrors.aliyun.com/pypi/simple/`
+
