@@ -35,3 +35,5 @@ Traceback (most recent call last):
 - `pip install markdown`也可能出错 可能是网络问题
 
 > 使用豆瓣源
+
+- `pip install xxx -i http://pypi.douban.com/simple/ `
