@@ -9,3 +9,4 @@ pip install django-filter  # Filtering support
 ```
 
 - pip list 列出安装的包
+- pip install django
