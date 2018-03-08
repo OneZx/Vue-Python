@@ -17,3 +17,8 @@ DATABASES = {
 <http://blog.csdn.net/u013986386/article/details/52869648>
 
 - [天涯教程](https://www.jianshu.com/p/da847259c7e3)
+
+#### 新建数据库navicat
+- 在navicat中
+
+![](/assets/database.png)
