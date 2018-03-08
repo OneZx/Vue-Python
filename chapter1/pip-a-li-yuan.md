@@ -10,6 +10,8 @@
 
 - 然后再pip文件夹中新建`pip.ini`,写入配置
 
+![](/assets/pipin.png)
+
 ```
 [global]
 
