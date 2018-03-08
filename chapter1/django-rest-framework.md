@@ -34,7 +34,7 @@ Traceback (most recent call last):
 - 在这里重新装 `django-rest-framework  markdown`等各种
 - `pip install markdown`也可能出错 可能是网络问题
 
-> 使用豆瓣源
+> 使用豆瓣源(现改为阿里源,配置参见下一节)
 
 - `pip install xxx -i http://pypi.douban.com/simple/ `
 
