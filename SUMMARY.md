@@ -6,5 +6,6 @@
   * [Vue准备](chapter1/vuezhun-bei.md)
   * [django rest framework](chapter1/django-rest-framework.md)
   * [pip 阿里源](chapter1/pip-a-li-yuan.md)
+  * [项目配置](chapter1/xiang-mu-pei-zhi.md)
 * [Vue基本概念](vueji-ben-gai-nian.md)
 
