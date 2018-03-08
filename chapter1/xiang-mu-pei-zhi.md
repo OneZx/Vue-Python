@@ -15,4 +15,5 @@ DATABASES = {
 ```
 - Mysql数据库默认`InnoDB`引擎(mysql5.7),还有种是`MyISAM`
 <http://blog.csdn.net/u013986386/article/details/52869648>
-[天涯](https://www.jianshu.com/p/da847259c7e3)
+
+- [天涯](https://www.jianshu.com/p/da847259c7e3)
