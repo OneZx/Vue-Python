@@ -5,5 +5,6 @@
   * [python虚拟环境安装与配置](chapter1/pythonxu-ni-huan-jing-an-zhuang-yu-pei-zhi.md)
   * [Vue准备](chapter1/vuezhun-bei.md)
   * [django rest framework](chapter1/django-rest-framework.md)
+  * [pip 阿里源](chapter1/pip-a-li-yuan.md)
 * [Vue基本概念](vueji-ben-gai-nian.md)
 
