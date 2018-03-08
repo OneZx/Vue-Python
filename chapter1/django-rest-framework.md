@@ -37,3 +37,8 @@ Traceback (most recent call last):
 > 使用豆瓣源
 
 - `pip install xxx -i http://pypi.douban.com/simple/ `
+
+- 安装完所有的后(warning不用管)
+
+![](/assets/piplist.png)
+
