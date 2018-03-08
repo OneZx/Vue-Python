@@ -29,4 +29,4 @@ Traceback (most recent call last):
 - 安装django2.0出错,于是在pycharm中新建django项目自动安装
 - `cd /d e:/` 进入e盘(我的django项目新建在e盘)
 - `cd E:\Vue-Python\py3vue\venv\Scripts` cd到scripts中
-- `activate.bat` 运行
+- `activate.bat` 运行,进入新建项目的虚拟环境中
