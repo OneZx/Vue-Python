@@ -19,6 +19,6 @@ DATABASES = {
 - [天涯教程](https://www.jianshu.com/p/da847259c7e3)
 
 #### 新建数据库navicat
-- 在navicat中
+- 在navicat中,注意字符集和排序规则的选项
 
 ![](/assets/database.png)
