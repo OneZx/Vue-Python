@@ -32,3 +32,6 @@ Traceback (most recent call last):
 - `cd E:\Vue-Python\py3vue\venv\Scripts` cd到scripts中
 - `activate.bat` 运行,进入新建项目的虚拟环境中
 - 在这里重新装 `django-rest-framework  markdown`等各种
+- `pip install markdown`也可能出错 可能是网络问题
+
+> 使用豆瓣源
