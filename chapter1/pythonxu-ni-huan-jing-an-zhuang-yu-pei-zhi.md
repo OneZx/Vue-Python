@@ -9,3 +9,10 @@
 
 - deactivate 退出虚拟环境
 - workon py3vue 进入虚拟环境
+
+#### 更新pip版本
+- 使用管理员权限运行cmd(不然可能没有权限更新)
+
+- 运行`python -m pip install --upgrade pip`
+
+- `pip -V` 检查版本
