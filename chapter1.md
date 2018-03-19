@@ -9,7 +9,10 @@
 ![](/assets/downpython.png)
 
 - 添加环境变量 就不用配置了
+
 ![](/assets/addpythonpath.png)
 
-- 
+- 添加for all users
+
+![](/assets/foruser.png)
 
