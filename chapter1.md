@@ -16,3 +16,4 @@
 
 ![](/assets/foruser.png)
 
+- python -V (大写) 检查版本
