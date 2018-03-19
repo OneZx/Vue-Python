@@ -7,3 +7,9 @@
 - win-amd64就是CPU是AMD64兼容的架构并在windows上运行
 
 ![](/assets/downpython.png)
+
+- 添加环境变量 就不用配置了
+![](/assets/addpythonpath.png)
+
+- 
+
