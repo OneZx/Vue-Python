@@ -16,3 +16,5 @@
 - 运行`python -m pip install --upgrade pip`
 
 - `pip -V` 检查版本
+
+- 进入D盘  `d:`
